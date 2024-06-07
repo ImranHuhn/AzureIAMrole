@@ -1,11 +1,5 @@
 <h1 align="center">Creating an IAM role</h1>
 
-<h2>Links:</h2>
-
-- [Google Doc](https://docs.google.com/document/d/13RSAKNogaCsEgfSr4q0NBI_qTSB4nYhqu2GJAhMPw9k/edit?usp=sharing)
-- [Github Repo](https://github.com/ImranHuhn/AzureIAMrole)
-- [Blog](http://www.techdeficient.com/2024/06/creating-iam-role.html)
-
 <h2>TLDR: Create IAM role for user</h2>
 
 - <b>Introduction: </b>Navigating and adding IAM roles ensures a secure access environment.
